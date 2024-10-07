@@ -13,4 +13,4 @@ print((2 * 2 + 2) == (2 * (2 + 2)))
 name = "123.456"
 float(name) * 10
 name2 = (float(name) * 10)
-print(int(name2) / 10)
+print(int(name2) % 10)
